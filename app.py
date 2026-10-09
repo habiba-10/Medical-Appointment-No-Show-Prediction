@@ -2,7 +2,7 @@
 # File Description
 # ==========================================================
 # File Name          : app.py
-# Author             : Habiba Ezat Abdeltawab, Sohila Mohammed
+# Author             : Habiba Ezat Abdeltawab
 # Date of Creation   : 07-07-2026
 # Version            : 1.0.0
 # Dependencies       : streamlit, pandas, numpy, joblib
