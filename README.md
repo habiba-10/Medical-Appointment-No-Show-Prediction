@@ -64,5 +64,4 @@ streamlit run app.py
 **Habiba Ezat**
 - GitHub: [@habiba-10](https://github.com/habiba-10)
 
-**Habiba Ezat**
-- GitHub: [@habiba-10](https://github.com/habiba-10)
+
